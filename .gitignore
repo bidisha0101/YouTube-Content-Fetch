@@ -38,3 +38,5 @@ next-env.d.ts
 # Ignore SSH keys
 id_rsa
 id_rsa.pub
+sshkey
+sshkey.pub
